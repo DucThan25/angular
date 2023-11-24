@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "than",
+      "lastName": "nguyen",
+      "email": "than178564@huce.edu.vn",
+      "dob": "2001-07-24T17:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Gabspot",
+      "experience": 36,
+      "package": 37,
+      "id": 1
+    },
+    {
+      "firstName": "le",
+      "lastName": "Quan",
+      "email": "quan165433@huce.edu.vn",
+      "dob": "2001-02-05T17:00:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "FPT",
+      "experience": 8,
+      "package": 3,
+      "id": 2
+    }
+  ]
+}
